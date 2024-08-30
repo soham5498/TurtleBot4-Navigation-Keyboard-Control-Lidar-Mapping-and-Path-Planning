@@ -1,0 +1,4 @@
+[console_scripts]
+mapping_node = mapping_package.mapping_node:main
+path_planning_node = mapping_package.path_planning_node:main
+
