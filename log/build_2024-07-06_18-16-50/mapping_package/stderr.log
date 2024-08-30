@@ -1,0 +1,10 @@
+/home/soham/ros2_ws/install/mapping_package/lib/python3.10/site-packages/mapping_package/path_following.py:68: SyntaxWarning: 'float' object is not callable; perhaps you missed a comma?
+  t0 = +2.0 (w * x + y * z)
+/home/soham/ros2_ws/install/mapping_package/lib/python3.10/site-packages/mapping_package/path_following.py:69: SyntaxWarning: 'float' object is not callable; perhaps you missed a comma?
+  t1 = +1.0 - 2.0 (x * x + y * y)
+/home/soham/ros2_ws/install/mapping_package/lib/python3.10/site-packages/mapping_package/path_following.py:72: SyntaxWarning: 'float' object is not callable; perhaps you missed a comma?
+  t2 = +2.0 (w * y - z * x)
+/home/soham/ros2_ws/install/mapping_package/lib/python3.10/site-packages/mapping_package/path_following.py:77: SyntaxWarning: 'float' object is not callable; perhaps you missed a comma?
+  t3 = +2.0 (w * z + x * y)
+/home/soham/ros2_ws/install/mapping_package/lib/python3.10/site-packages/mapping_package/path_following.py:78: SyntaxWarning: 'float' object is not callable; perhaps you missed a comma?
+  t4 = +1.0 - 2.0 (y * y + z * z)

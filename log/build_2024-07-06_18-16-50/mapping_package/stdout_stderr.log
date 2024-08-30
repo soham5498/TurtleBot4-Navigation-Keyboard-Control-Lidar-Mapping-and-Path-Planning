@@ -1,0 +1,38 @@
+running egg_info
+writing ../../build/mapping_package/mapping_package.egg-info/PKG-INFO
+writing dependency_links to ../../build/mapping_package/mapping_package.egg-info/dependency_links.txt
+writing entry points to ../../build/mapping_package/mapping_package.egg-info/entry_points.txt
+writing requirements to ../../build/mapping_package/mapping_package.egg-info/requires.txt
+writing top-level names to ../../build/mapping_package/mapping_package.egg-info/top_level.txt
+reading manifest file '../../build/mapping_package/mapping_package.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/mapping_package/mapping_package.egg-info/SOURCES.txt'
+running build
+running build_py
+copying mapping_package/path_planning.py -> /home/soham/ros2_ws/build/mapping_package/build/lib/mapping_package
+copying mapping_package/path_following.py -> /home/soham/ros2_ws/build/mapping_package/build/lib/mapping_package
+running install
+running install_lib
+copying /home/soham/ros2_ws/build/mapping_package/build/lib/mapping_package/path_planning.py -> /home/soham/ros2_ws/install/mapping_package/lib/python3.10/site-packages/mapping_package
+copying /home/soham/ros2_ws/build/mapping_package/build/lib/mapping_package/path_following.py -> /home/soham/ros2_ws/install/mapping_package/lib/python3.10/site-packages/mapping_package
+byte-compiling /home/soham/ros2_ws/install/mapping_package/lib/python3.10/site-packages/mapping_package/path_planning.py to path_planning.cpython-310.pyc
+byte-compiling /home/soham/ros2_ws/install/mapping_package/lib/python3.10/site-packages/mapping_package/path_following.py to path_following.cpython-310.pyc
+/home/soham/ros2_ws/install/mapping_package/lib/python3.10/site-packages/mapping_package/path_following.py:68: SyntaxWarning: 'float' object is not callable; perhaps you missed a comma?
+  t0 = +2.0 (w * x + y * z)
+/home/soham/ros2_ws/install/mapping_package/lib/python3.10/site-packages/mapping_package/path_following.py:69: SyntaxWarning: 'float' object is not callable; perhaps you missed a comma?
+  t1 = +1.0 - 2.0 (x * x + y * y)
+/home/soham/ros2_ws/install/mapping_package/lib/python3.10/site-packages/mapping_package/path_following.py:72: SyntaxWarning: 'float' object is not callable; perhaps you missed a comma?
+  t2 = +2.0 (w * y - z * x)
+/home/soham/ros2_ws/install/mapping_package/lib/python3.10/site-packages/mapping_package/path_following.py:77: SyntaxWarning: 'float' object is not callable; perhaps you missed a comma?
+  t3 = +2.0 (w * z + x * y)
+/home/soham/ros2_ws/install/mapping_package/lib/python3.10/site-packages/mapping_package/path_following.py:78: SyntaxWarning: 'float' object is not callable; perhaps you missed a comma?
+  t4 = +1.0 - 2.0 (y * y + z * z)
+running install_data
+running install_egg_info
+removing '/home/soham/ros2_ws/install/mapping_package/lib/python3.10/site-packages/mapping_package-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/mapping_package/mapping_package.egg-info to /home/soham/ros2_ws/install/mapping_package/lib/python3.10/site-packages/mapping_package-0.0.0-py3.10.egg-info
+running install_scripts
+Installing mapping_node script to /home/soham/ros2_ws/install/mapping_package/lib/mapping_package
+Installing path_following script to /home/soham/ros2_ws/install/mapping_package/lib/mapping_package
+Installing path_planning script to /home/soham/ros2_ws/install/mapping_package/lib/mapping_package
+writing list of installed files to '/home/soham/ros2_ws/build/mapping_package/install.log'

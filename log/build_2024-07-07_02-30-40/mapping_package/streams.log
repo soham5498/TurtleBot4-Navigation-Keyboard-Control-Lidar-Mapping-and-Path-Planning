@@ -1,0 +1,26 @@
+[1.357s] Invoking command in '/home/soham/ros2_ws/src/mapping_package': PYTHONPATH=/home/soham/ros2_ws/build/mapping_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/soham/ros2_ws/install/mapping_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/mapping_package build --build-base /home/soham/ros2_ws/build/mapping_package/build install --record /home/soham/ros2_ws/build/mapping_package/install.log --single-version-externally-managed install_data
+[1.778s] running egg_info
+[1.780s] writing ../../build/mapping_package/mapping_package.egg-info/PKG-INFO
+[1.783s] writing dependency_links to ../../build/mapping_package/mapping_package.egg-info/dependency_links.txt
+[1.783s] writing entry points to ../../build/mapping_package/mapping_package.egg-info/entry_points.txt
+[1.783s] writing requirements to ../../build/mapping_package/mapping_package.egg-info/requires.txt
+[1.784s] writing top-level names to ../../build/mapping_package/mapping_package.egg-info/top_level.txt
+[1.788s] reading manifest file '../../build/mapping_package/mapping_package.egg-info/SOURCES.txt'
+[1.789s] adding license file 'LICENSE'
+[1.790s] writing manifest file '../../build/mapping_package/mapping_package.egg-info/SOURCES.txt'
+[1.791s] running build
+[1.791s] running build_py
+[1.793s] copying mapping_package/path_planning_node.py -> /home/soham/ros2_ws/build/mapping_package/build/lib/mapping_package
+[1.798s] running install
+[1.798s] running install_lib
+[1.800s] copying /home/soham/ros2_ws/build/mapping_package/build/lib/mapping_package/path_planning_node.py -> /home/soham/ros2_ws/install/mapping_package/lib/python3.10/site-packages/mapping_package
+[1.802s] byte-compiling /home/soham/ros2_ws/install/mapping_package/lib/python3.10/site-packages/mapping_package/path_planning_node.py to path_planning_node.cpython-310.pyc
+[1.805s] running install_data
+[1.807s] running install_egg_info
+[1.809s] removing '/home/soham/ros2_ws/install/mapping_package/lib/python3.10/site-packages/mapping_package-0.0.0-py3.10.egg-info' (and everything under it)
+[1.809s] Copying ../../build/mapping_package/mapping_package.egg-info to /home/soham/ros2_ws/install/mapping_package/lib/python3.10/site-packages/mapping_package-0.0.0-py3.10.egg-info
+[1.812s] running install_scripts
+[1.845s] Installing mapping_node script to /home/soham/ros2_ws/install/mapping_package/lib/mapping_package
+[1.845s] Installing path_planning_node script to /home/soham/ros2_ws/install/mapping_package/lib/mapping_package
+[1.846s] writing list of installed files to '/home/soham/ros2_ws/build/mapping_package/install.log'
+[1.884s] Invoked command in '/home/soham/ros2_ws/src/mapping_package' returned '0': PYTHONPATH=/home/soham/ros2_ws/build/mapping_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/soham/ros2_ws/install/mapping_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/mapping_package build --build-base /home/soham/ros2_ws/build/mapping_package/build install --record /home/soham/ros2_ws/build/mapping_package/install.log --single-version-externally-managed install_data

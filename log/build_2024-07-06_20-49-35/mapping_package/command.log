@@ -1,0 +1,2 @@
+Invoking command in '/home/soham/ros2_ws/build/mapping_package': /usr/bin/cmake /home/soham/ros2_ws/src/mapping_package -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/soham/ros2_ws/install/mapping_package
+Invoked command in '/home/soham/ros2_ws/build/mapping_package' returned '1': /usr/bin/cmake /home/soham/ros2_ws/src/mapping_package -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/soham/ros2_ws/install/mapping_package
