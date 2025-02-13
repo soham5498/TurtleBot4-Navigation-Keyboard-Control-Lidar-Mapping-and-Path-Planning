@@ -85,9 +85,6 @@ The implementation is based on the following references:
 - [Lidar Mapping for Autonomous Robots](https://automaticaddison.com/set-up-lidar-for-a-simulated-mobile-robot-in-ros-2/)
 - [A* Path Planning](https://github.com/fazildgr8/ros_autonomous_slam/blob/master/nodes/a_star_main.py)
 
-## License
-This project is licensed under the MIT License.
-
 ## Authors
 - Soham Joita
 - lakshmi chandrasekharan
